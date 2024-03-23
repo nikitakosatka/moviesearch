@@ -6,6 +6,7 @@ Flask REST API with Movies & Directors
 
 1. Create PostgreSQL DB
 2. Create .env file in root of project & fill like in .env.example
+3. Use Virtual Environment `source venv/bin/activate`
 3. Install requirements `pip install -r requirements.txt`
    or `pip3 install -r requirements.txt`
 4. Run application `flask run -h 127.0.0.1 -p 8080`
